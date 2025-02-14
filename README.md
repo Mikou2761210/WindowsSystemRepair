@@ -7,4 +7,4 @@ Bat file for easy use of Windows system repair commands
   
 ### Download  
 [日本語版](https://github.com/Mikou2761210/WindowsSystemRepair/releases/download/Japanese/WindowsSystemRepair-JP.bat)  
-[English Version](https://github.com/Mikou2761210/WindowsSystemRepair/releases/tag/English/WindowsSystemRepair-EN.bat)  
+[English Version](https://github.com/Mikou2761210/WindowsSystemRepair/releases/download/English/WindowsSystemRepair-EN.bat)  
